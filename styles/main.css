@@ -1,0 +1,12 @@
+body {
+  height: 100vh;
+  background-image: url('../images/american-flag-images-12.jpg');
+  background-size: cover;
+}
+
+#info {
+  width: 80%;
+  margin: auto;
+  background-color: white;
+  padding: 2%;
+}
